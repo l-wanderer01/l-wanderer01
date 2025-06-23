@@ -5,3 +5,4 @@
 <a href="https://www.https://velog.io/@l-wanderer01/posts/"><img src="https://img.shields.io/badge/velog-d3e5b2?style=flat-square&logo=velog&logoColor=white"/></a>
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=90&rotate=-30)
+![snake gif](https://github.com/l-wanderer01/l-wanderer01/blob/output/github-contribution-grid-snake.svg)
