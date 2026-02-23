@@ -49,12 +49,10 @@
 ## Featured Projects
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l-wanderer01&repo=PROJECT_REPO_1&theme=default&hide_border=true)](https://github.com/l-wanderer01/PROJECT_REPO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l-wanderer01&repo=PROJECT_REPO_2&theme=default&hide_border=true)](https://github.com/l-wanderer01/PROJECT_REPO_2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l-wanderer01&repo=PROJECT_REPO_3&theme=default&hide_border=true)](https://github.com/l-wanderer01/PROJECT_REPO_3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l-wanderer01&repo=PROJECT_REPO_4&theme=default&hide_border=true)](https://github.com/l-wanderer01/PROJECT_REPO_4)
-
-<!-- 위 PROJECT_REPO_1~4를 실제 레포명으로 교체하세요 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l-wanderer01&repo=PiroCheck&theme=default&hide_border=true)](https://github.com/l-wanderer01/PiroCheck)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SKALA-Mini-Project-1&repo=SKALA-Mini-Project-1&theme=default&hide_border=true)](https://github.com/SKALA-Mini-Project-1/SKALA-Mini-Project-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l-wanderer01&repo=TABA_Project&theme=default&hide_border=true)](https://github.com/l-wanderer01/TABA_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l-wanderer01&repo=On-Record&theme=default&hide_border=true)](https://github.com/l-wanderer01/On-Record)
 
 </div>
 
