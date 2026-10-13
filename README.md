@@ -36,13 +36,13 @@
 ---
 
 ## Projects
-| Project | Period | Role | Key Features | Tech Stack | Link |
-| --- | --- | --- | --- | --- | --- |
-| 프로젝트명 1 | 2025.03 - 2025.06 | Backend (Team) | 인증/인가, REST API, 배치 처리 | Java, Spring Boot, MySQL | [Repo](https://github.com/l-wanderer01) |
-| 프로젝트명 2 | 2024.09 - 2024.12 | Full-stack (Team) | 게시판, 검색, 관리자 기능 | Java, Spring, JS, MySQL | [Repo](https://github.com/l-wanderer01) |
-| 프로젝트명 3 | 2024.05 - 2024.07 | Backend (Solo) | 도메인 모델링, 테스트 코드 작성 | Java, Spring Boot, JPA | [Repo](https://github.com/l-wanderer01) |
 
-<!-- 작성 팁: Key Features는 2~3개만 핵심으로, Role은 Solo/Team + 담당영역으로 간단히 -->
+| Project | Description | Key Features | Tech Stack | Link |
+| --- | --- | --- | --- | --- |
+| **OnePO** | AI Agent 기반 Kubernetes AIOps 플랫폼 | 자연어 리소스 질의, 장애 원인 분석, AI 장애 보고서 | Python, LangGraph, LangChain, Kubernetes, Docker | [Repo · Private](https://github.com/l-wanderer01/OnePO) |
+| **AI-semiconductor-startup-evaluation** | AI 반도체 스타트업 투자 평가를 지원하는 Multi-Agent 시스템 | RAG 기반 기업 분석, 투자 평가 점수 산출, 추천·보류 보고서 생성 | Python, LangGraph, LangChain, GPT-4o, Qdrant | [Repo](https://github.com/l-wanderer01/AI-semiconductor-startup-evaluation) |
+| **FairLine Ticket** | MSA 기반 공연 예매 및 운영 플랫폼 | 대기열 제어, 좌석 선점·예매, Outbox·CDC 기반 이벤트 처리 | Java, Spring Boot, PostgreSQL, Redis, Kafka, Debezium | [Repo](https://github.com/l-wanderer01/FairLine-Ticket) |
+| **Pirocheck** | 동아리 출결 및 과제 관리 플랫폼 | 실시간 출석 코드, 과제 상태 관리, 운영진·부원 권한 분리 | Java, Spring Boot, PostgreSQL, React, AWS | [Repo](https://github.com/l-wanderer01/PiroCheck) |
 
 ---
 
